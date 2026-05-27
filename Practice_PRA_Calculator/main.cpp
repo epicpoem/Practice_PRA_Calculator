@@ -1,6 +1,8 @@
 #include "gmock/gmock.h"
 #include "Cal.cpp"
 
+#한글 테스트
+
 TEST(CalTest, MinusTest) {
 	Cal* cal = new Cal();
 
